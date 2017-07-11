@@ -1,5 +1,5 @@
 
-# DesolationRedux---Debug-Monitor
+# DesolationRedux Debug-Monitor
 
 # Modified by Warfighter - http://campfirecommunity.dk
 
